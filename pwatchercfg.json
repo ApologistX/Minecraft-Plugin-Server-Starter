@@ -1,0 +1,28 @@
+{
+  "ram_mode": "auto",
+  "fixed_ram_gb": 4,
+  "ram_fraction": 0.25,
+  "max_ram_gb": null,
+  "use_aikar_flags": true,
+  "debounce_seconds": 3,
+  "ignore_jars": [
+    "worldedit*",
+    "worldguard*",
+    "essentials*",
+    "vault*",
+    "luckperms*",
+    "protocollib*",
+    "coreprotect*",
+    "griefprevention*",
+    "clearlagg*",
+    "multiverse*",
+    "placeholderapi*",
+    "viaversion*",
+    "nuvotifier*",
+    "fastasyncworldedit*",
+    "dynmap*"
+  ],
+  "log_to_file": true,
+  "log_file": "watch_plugins.log",
+  "extra_java_args": []
+}
